@@ -1,0 +1,28 @@
+.btn-container {
+  margin-top: 10px;
+  border-radius: 10px;
+  background: #ededed;
+  border: 1px solid red;
+}
+
+.btn-icon {
+  margin-top: 20px;
+  width: 174px;
+  height: 40px;
+  background: #00285f;
+  border-radius: 10px;
+}
+
+.btn-icon h6 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.btn-container-navegar {
+  margin: 20px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #585858;
+  text-align: center;
+}

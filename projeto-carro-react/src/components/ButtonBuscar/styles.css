@@ -1,0 +1,61 @@
+.btn-container-buscar {
+  align-items: center;
+  width: 300px;
+  height: 86px;
+  margin-bottom: 10px;
+  background: #ededed;
+  border: 1px solid red;
+}
+
+.btn-box {
+  margin-left: 14px;
+}
+
+.btn-box-search {
+  width: 199px;
+  text-align: center;
+  height: 40px;
+  background: #ffffff;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.btn-icon-buscar {
+  width: 75px;
+  height: 40px;
+  border-radius: 0px 5px 5px 0px;
+  background: #00285f;
+}
+.btn-icon-buscar h6 {
+  text-align: center;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+@media (min-width: 576px) {
+  .btn-container-buscar {
+    width: 516px;
+  }
+
+  .btn-box-search {
+    width: 320px;
+  }
+
+  .btn-icon-buscar {
+    width: 174px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .btn-container-buscar {
+    width: 1116px;
+  }
+
+  .btn-box-search {
+    width: 870px;
+    margin-left: 15px;
+  }
+
+  .btn-icon-buscar {
+    width: 180px;
+  }
+}

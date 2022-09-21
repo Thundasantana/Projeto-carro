@@ -1,0 +1,30 @@
+.btn-container-catalog {
+  border: 1px solid red;
+}
+
+.btn-icon-catalog {
+  width: 257px;
+  height: 40px;
+  background: #00285f;
+  border-radius: 5px;
+}
+
+.btn-icon-catalog h6 {
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+@media (min-width: 576px) {
+  .btn-icon-catalog {
+    width: 210px;
+  }
+
+}
+
+@media (min-width: 1200px) {
+  .btn-icon-catalog {
+    width: 315git px;
+  }
+}
