@@ -1,7 +1,3 @@
-.btn-container-catalog {
-  border: 1px solid red;
-}
-
 .btn-icon-catalog {
   width: 257px;
   height: 40px;
@@ -20,11 +16,10 @@
   .btn-icon-catalog {
     width: 210px;
   }
-
 }
 
 @media (min-width: 1200px) {
   .btn-icon-catalog {
-    width: 315git px;
+    width: 315px;
   }
 }
